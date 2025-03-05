@@ -49,7 +49,7 @@ We need to use a blog-ready theme. For this activity, we will use a theme named 
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
-
+sssssss
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
