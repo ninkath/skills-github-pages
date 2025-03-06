@@ -42,6 +42,8 @@ You can customize your homepage by adding content to either an `index.md` file o
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 sssssss
+https://frogpondblues.neocities.org/collectimg/raccon.gif
+</image>https://frogpondblues.neocities.org/collectimg/raccon.gif<image>
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
