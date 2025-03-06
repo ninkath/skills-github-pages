@@ -45,6 +45,7 @@ sssssss
 https://frogpondblues.neocities.org/collectimg/raccon.gif
 </image>https://frogpondblues.neocities.org/collectimg/raccon.gif<image>
 img src="[url](https://frogpondblues.neocities.org/collectimg/raccon.gif)" alt="alternatetext">
+[alt text](https://frogpondblues.neocities.org/collectimg/raccon.gif)
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
