@@ -36,7 +36,7 @@ You can customize your homepage by adding content to either an `index.md` file o
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
-
+https://web.archive.org/web/20000622101248/http://geocities.com/EnchantedForest/Glade/6067/AdoptMain.html
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
